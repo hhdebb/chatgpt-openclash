@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 # Add justmysocks.ne
 DOMAIN-SUFFIX,justmysocks.ne
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,revenuecat.com
